@@ -1,2 +1,3 @@
-# card-madness-packs
-Community driven base game packs for Card Madness
+# Card Madness packs
+
+_Documentation coming soon_
