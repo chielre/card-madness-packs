@@ -4,9 +4,6 @@
  <a href="https://github.com/chielre/card-madness/graphs/contributors">
     <img src="https://img.shields.io/github/contributors-anon/chielre/card-madness-packs?color=yellow&style=flat-square" alt="contributors" style="height: 20px;">
 </a>
-<a href="https://github.com/chielre/card-madness/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/chielre/card-madness-packs?color=91bf09" alt="License">
-</a>
 </p>
 
 
