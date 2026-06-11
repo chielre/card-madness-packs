@@ -1,0 +1,21 @@
+{
+    "id": "cm_study",
+    "name": "Study pack",
+    "description": "Deadlines, instant noodles en plezier. De study pack!",
+    "nsfw": false,
+    "author": {
+        "name": "Card Madness",
+        "link": null
+    },
+    "language": {
+        "fallback": "en",
+        "supported_languages": [
+            "nl",
+            "en"
+        ]
+    },
+    "background": [
+        "#BABA00",
+        "#BA0070"
+    ]
+}
