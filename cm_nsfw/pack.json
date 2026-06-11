@@ -2,6 +2,16 @@
     "id": "cm_nsfw",
     "name": "NSFW Pack",
     "description": "Om een vleugje zout te geven aan je avond. Ongecensureerd en extreem persoonlijk. Verwacht rare blikken, een goede lading schaamte en hele bijzondere situaties. ",
+    "translations": {
+        "nl": {
+            "name": "NSFW Pack",
+            "description": "Om een vleugje zout te geven aan je avond. Ongecensureerd en extreem persoonlijk. Verwacht rare blikken, een goede lading schaamte en hele bijzondere situaties. "
+        },
+        "en": {
+            "name": "NSFW Pack",
+            "description": "To add a pinch of salt to your evening. Uncensored and extremely personal. Expect strange looks, a hefty dose of shame, and some very peculiar situations."
+        }
+    },
     "nsfw": true,
     "author": {
         "name": "CardMadness",
@@ -9,7 +19,10 @@
     },
     "language": {
         "fallback": "nl",
-        "supported_languages": []
+        "supported_languages": [
+            "en",
+            "nl"
+        ]
     },
     "background": [
         "#000000",

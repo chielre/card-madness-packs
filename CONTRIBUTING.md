@@ -1,7 +1,7 @@
 # Contributing
 
 Thanks for contributing to the Card Madness Community Packs repository!   
-This repo is **community-driven** and focuses on **card pack content** (not the game engine).
+This repo is **community-driven** and focuses on **packs of cards for the game** (not the [game engine](https://github.com/chielre/card-madness)).
 
 ## Quick rules
 
@@ -14,8 +14,14 @@ This repo is **community-driven** and focuses on **card pack content** (not the 
 
 ## Pack guidelines
 
-_Guidelines coming soon, refer to other cm\_ packs_
+* Cards should be at least **80%** compatible with other packs.
+* Use the NSFW tag responsibly. When in doubt, it is better to be careful.
+* Do not use the `cm_` prefix in packs, as this is reserved for official Card Madness packs.
+* Packs should never negatively target groups of people.
+* Visual content, such as logos, backgrounds, and music, should be in English.
+* Translations should stay on the same line and preserve the original context.
 
+These guidelines are meant to point you in the right direction. They are not black and white rules. Every pack is reviewed before publishing. Please follow the guidelines to make the review process as quick and easy as possible.
 
 
 ## How to contribute

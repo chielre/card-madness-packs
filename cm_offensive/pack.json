@@ -2,6 +2,16 @@
     "id": "cm_offensive",
     "name": "Offensive Pack",
     "description": "Geef je game een agresieve wending. Met de offensive pack komen harde discussies op gang en komen relaties op het spel. We hebben ons niet ingehouden.",
+    "translations": {
+        "nl": {
+            "name": "Offensive Pack",
+            "description": "Geef je game een agresieve wending. Met de offensive pack komen harde discussies op gang en komen relaties op het spel. We hebben ons niet ingehouden."
+        },
+        "en": {
+            "name": "Offensive Pack",
+            "description": "Give your game an aggressive twist. With the offensive pack, heated arguments flare up and relationships are put on the line. We didn't hold back."
+        }
+    },
     "nsfw": true,
     "author": {
         "name": "CardMadness",
@@ -10,7 +20,8 @@
     "language": {
         "fallback": "nl",
         "supported_languages": [
-            "nl"
+            "nl",
+            "en"
         ]
     },
     "background": [

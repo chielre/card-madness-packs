@@ -1,7 +1,17 @@
 {
     "id": "cm_base",
     "name": "Base Pack",
-    "description": "Gewoon leuke situaties over van alles en nog wat. De basis pack die we iedereen aanraden!",
+    "description": "Just fun situations about a little bit of everything. The base pack we recommend to everyone!",
+    "translations": {
+        "en": {
+            "name": "Base Pack",
+            "description": "Just fun situations about a little bit of everything. The base pack we recommend to everyone!"
+        },
+        "nl": {
+            "name": "Base Pack",
+            "description": "Gewoon leuke situaties over van alles en nog wat. De basis pack die we iedereen aanraden!"
+        }
+    },
     "nsfw": false,
     "author": {
         "name": "Card Madness",
